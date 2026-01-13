@@ -20,5 +20,5 @@
 - 子どもの具体的ログはこのリポジトリに置かない（フレームのみ）
 
 ## ファイル
-- save_data_signals.md：観測できる指標の一覧
-- questions.md：評価を避ける質問テンプレ
+- [観測できる指標の一覧](./save_data_signals.md)
+- [評価を避ける質問テンプレ](./questions.md)
