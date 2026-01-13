@@ -14,3 +14,6 @@
 
 ## observation
 - [ゲーム進捗の観測メモ（非診断）](./observation/game_progress/README.md)
+
+## decision_frameworks
+- [FA設備における搬送方式選択フロー（現場目線）](./decision_frameworks/fa-transport-selection-notes/README.md)
