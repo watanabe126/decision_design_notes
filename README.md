@@ -13,4 +13,4 @@
 
 
 ## observation
-- observation/game_progress/ ：ゲーム進捗の観測メモ（非診断）
+- [ゲーム進捗の観測メモ（非診断）](./observation/game_progress/README.md)
