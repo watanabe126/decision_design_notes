@@ -15,6 +15,7 @@
 ## observation
 - [ゲーム進捗の観測メモ（非診断）](./observation/game_progress/README.md)
 - [雑談をカードゲームとして扱うモデル / Smalltalk as a Card Game](./observation/conversation/smalltalk_as_cardgame.md)  
+- [レーダーチャートで見る「思考・行動スタイル」メモ](./observation/radar_style_map.md)
 
 ## decision_frameworks
 - [FA設備における搬送方式選択フロー（現場目線）](./decision_frameworks/fa-transport-selection-notes/README.md)
